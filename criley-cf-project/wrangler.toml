@@ -1,0 +1,5 @@
+name = "criley-cf-project"
+type = "javascript"
+account_id = "74630eacb2d5f52d5499ccdaab541ba9"
+workers_dev = true
+
